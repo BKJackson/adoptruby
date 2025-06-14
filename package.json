@@ -1,0 +1,57 @@
+{
+  "name": "adoptruby",
+  "version": "1.0.0",
+  "description": "Ruby Needs A Forever Home",
+  "main": "index.js",
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@heroicons/react": "^2.2.0",
+    "autoprefixer": "^10.4.21",
+    "busboy": "^1.6.0",
+    "caniuse-lite": "^1.0.30001722",
+    "client-only": "^0.0.1",
+    "color": "^4.2.3",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "color-string": "^1.9.1",
+    "detect-libc": "^2.0.4",
+    "is-arrayish": "^0.3.2",
+    "nanoid": "^3.3.11",
+    "next": "^15.3.3",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "scheduler": "^0.26.0",
+    "semver": "^7.7.2",
+    "sharp": "^0.34.2",
+    "simple-swizzle": "^0.2.2",
+    "source-map-js": "^1.2.1",
+    "streamsearch": "^1.1.0",
+    "styled-jsx": "^5.1.6",
+    "tailwindcss": "^4.1.10",
+    "tslib": "^2.8.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BKJackson/adoptruby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BKJackson/adoptruby/issues"
+  },
+  "homepage": "https://github.com/BKJackson/adoptruby#readme",
+  "devDependencies": {
+    "@types/node": "24.0.1",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
